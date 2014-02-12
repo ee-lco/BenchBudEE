@@ -48,9 +48,9 @@ $EndDescr
 Text HLabel 2600 2400 0    60   Input ~ 0
 LED_EN_PWM
 Text HLabel 9500 1000 2    60   Output ~ 0
-String+
-Text HLabel 9500 2400 2    60   Input ~ 0
-String-
+LED_STRING+
+Text HLabel 9500 2400 2    60   Output ~ 0
+LED_STRING-
 Wire Wire Line
 	2600 2400 3400 2400
 $Comp
