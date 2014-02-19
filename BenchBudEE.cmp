@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Tue 18 Feb 2014 12:51:50 AM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Thu 20 Feb 2014 12:09:17 AM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -36,6 +36,48 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE493/5305534C;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53054C51;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/530530D6;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/530548CB;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53054A99;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53054751;
+Reference = C10;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4BD/52F15F14;
 Reference = D1;
 ValeurCmp = LG Q71-KN-1;
@@ -60,13 +102,6 @@ BeginCmp
 TimeStamp = /52EAE52A/52FBE14F;
 Reference = D4;
 ValeurCmp = DIODE;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52EAE493/52F02043;
-Reference = D5;
-ValeurCmp = ZENER;
 IdModule  = ;
 EndCmp
 
@@ -124,6 +159,20 @@ TimeStamp = /52EAE4E0/52F29C7F;
 Reference = P1;
 ValeurCmp = CONN_12X2;
 IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/5305902E;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53053170;
+Reference = P3;
+ValeurCmp = CONN_3X2;
+IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
 EndCmp
 
 BeginCmp
@@ -298,49 +347,49 @@ BeginCmp
 TimeStamp = /52EAE493/52F01B9E;
 Reference = R21;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/52F01BB4;
 Reference = R22;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/52F01B93;
 Reference = R23;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/52F01BA9;
 Reference = R24;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/52F01B58;
 Reference = R25;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE493/52F01B4D;
+TimeStamp = /52EAE493/53053182;
 Reference = R26;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/52F01B63;
 Reference = R27;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -449,6 +498,48 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE493/5305318D;
+Reference = R43;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53053198;
+Reference = R44;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE42B/5305743E;
+Reference = R45;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE42B/53057447;
+Reference = R46;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/5305B09F;
+Reference = R47;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/5305A5E6;
+Reference = R48;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4E0/52F29CB0;
 Reference = SW1;
 ValeurCmp = SWITCH_INV;
@@ -547,24 +638,24 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE493/52F01F2F;
+TimeStamp = /52EAE493/53052FCE;
 Reference = U9;
-ValeurCmp = MCP3550-60-E/SN;
-IdModule  = ;
+ValeurCmp = MCP3901;
+IdModule  = SMD_Packages:SSOP20;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE493/52F02036;
+TimeStamp = /52EAE493/53054140;
 Reference = U10;
-ValeurCmp = MCP3550-60-E/SN;
-IdModule  = ;
+ValeurCmp = LMT84;
+IdModule  = SMD_Packages:SOT353;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE493/52F01AA7;
+TimeStamp = /52EAE52A/52F026D6;
 Reference = U11;
-ValeurCmp = LM324;
-IdModule  = ;
+ValeurCmp = OPA4170;
+IdModule  = SMD_Packages:SO14E;
 EndCmp
 
 EndListe
