@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Thu 20 Feb 2014 12:09:17 AM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sat 22 Feb 2014 07:20:25 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -157,8 +157,8 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE4E0/52F29C7F;
 Reference = P1;
-ValeurCmp = CONN_12X2;
-IdModule  = ;
+ValeurCmp = 24-pin Mini-Fit Jr.;
+IdModule  = BenchBudEE:ATX_Header;
 EndCmp
 
 BeginCmp
@@ -173,6 +173,20 @@ TimeStamp = /52EAE493/53053170;
 Reference = P3;
 ValeurCmp = CONN_3X2;
 IdModule  = Pin_Headers:Pin_Header_Straight_2x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE551/5308C0F9;
+Reference = P4;
+ValeurCmp = 12-pin Terminal Block;
+IdModule  = BenchBudEE:12pinTB;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE551/5308C10D;
+Reference = P5;
+ValeurCmp = 3-pin TB;
+IdModule  = BenchBudEE:3pinTB;
 EndCmp
 
 BeginCmp
