@@ -1,10 +1,10 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sat 22 Feb 2014 07:20:25 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sat 22 Feb 2014 08:25:44 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
 Reference = ARD1;
 ValeurCmp = ARDUINO-PINS;
-IdModule  = ;
+IdModule  = BenchBudEE:Arduino;
 EndCmp
 
 BeginCmp
@@ -410,105 +410,105 @@ BeginCmp
 TimeStamp = /52EAE42B/52FC23F0;
 Reference = R28;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC4056;
 Reference = R29;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC404F;
 Reference = R30;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2D7C;
 Reference = R31;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2D75;
 Reference = R32;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC4066;
 Reference = R33;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC405F;
 Reference = R34;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC4076;
 Reference = R35;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2526;
 Reference = R36;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC408C;
 Reference = R37;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FDBDB3;
 Reference = R38;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC406F;
 Reference = R39;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC255A;
 Reference = R40;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC1D68;
 Reference = R41;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC4081;
 Reference = R42;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
@@ -529,14 +529,14 @@ BeginCmp
 TimeStamp = /52EAE42B/5305743E;
 Reference = R45;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/53057447;
 Reference = R46;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
