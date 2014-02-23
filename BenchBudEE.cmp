@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 04:50:25 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 08:53:37 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -99,6 +99,90 @@ IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
+TimeStamp = /52F17012/530A41E0;
+Reference = C14;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A40C1;
+Reference = C15;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A4375;
+Reference = C16;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A3F74;
+Reference = C17;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A4F3E;
+Reference = C18;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A4E20;
+Reference = C19;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A50BF;
+Reference = C20;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A51EE;
+Reference = C21;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A6C88;
+Reference = C22;
+ValeurCmp = CP1;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A6C9D;
+Reference = C23;
+ValeurCmp = CP1;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A5082;
+Reference = C24;
+ValeurCmp = CP1;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A50A8;
+Reference = C25;
+ValeurCmp = CP1;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4BD/52F15F14;
 Reference = D1;
 ValeurCmp = LG Q71-KN-1;
@@ -127,22 +211,64 @@ IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
 EndCmp
 
 BeginCmp
+TimeStamp = /52F17012/530A581A;
+Reference = D5;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A57FC;
+Reference = D6;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A57DE;
+Reference = D7;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A5838;
+Reference = D8;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A580B;
+Reference = D9;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A57ED;
+Reference = D10;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A5829;
+Reference = D11;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A5407;
+Reference = D12;
+ValeurCmp = MMBD914-7-F;
+IdModule  = BenchBudEE:SOT23-DIODE;
+EndCmp
+
+BeginCmp
 TimeStamp = /52F17012/52F2A734;
 Reference = JP1;
-ValeurCmp = JUMPER;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2A472;
-Reference = JP2;
-ValeurCmp = JUMPER;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2A48E;
-Reference = JP3;
 ValeurCmp = JUMPER;
 IdModule  = ;
 EndCmp
@@ -304,71 +430,57 @@ EndCmp
 BeginCmp
 TimeStamp = /52F17012/52F2B94F;
 Reference = R9;
-ValeurCmp = RVAR;
-IdModule  = ;
+ValeurCmp = 5k;
+IdModule  = BenchBudEE:EVUE3K;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/52F2AAA1;
 Reference = R10;
-ValeurCmp = R;
-IdModule  = ;
+ValeurCmp = 680;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/52F2A929;
 Reference = R11;
-ValeurCmp = R;
-IdModule  = ;
+ValeurCmp = 680;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/52F2B933;
 Reference = R12;
-ValeurCmp = RVAR;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2B010;
-Reference = R13;
-ValeurCmp = R;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2AED8;
-Reference = R14;
-ValeurCmp = R;
-IdModule  = ;
+ValeurCmp = 5k;
+IdModule  = BenchBudEE:EVUE3K;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/52F2AC7C;
 Reference = R15;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/52F2AC87;
 Reference = R16;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/52F2AD5A;
 Reference = R17;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/52F2AD54;
 Reference = R18;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -585,14 +697,42 @@ BeginCmp
 TimeStamp = /52EAE42B/53090D0D;
 Reference = R49;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE42B/53090D16;
 Reference = R50;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A2454;
+Reference = R51;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A245F;
+Reference = R52;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A2762;
+Reference = R53;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A275C;
+Reference = R54;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -655,28 +795,28 @@ BeginCmp
 TimeStamp = /52F17012/52F2AA95;
 Reference = U3;
 ValeurCmp = LM317T;
-IdModule  = ;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
 EndCmp
 
 BeginCmp
-TimeStamp = /52F17012/52F2A885;
+TimeStamp = /52F17012/530A243A;
 Reference = U4;
-ValeurCmp = 7805;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2A8AB;
-Reference = U5;
-ValeurCmp = 7805;
-IdModule  = ;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2A42B;
-Reference = U6;
 ValeurCmp = LM317T;
-IdModule  = ;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A276D;
+Reference = U5;
+ValeurCmp = LM337T;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/530A2726;
+Reference = U6;
+ValeurCmp = LM337T;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
 EndCmp
 
 BeginCmp
