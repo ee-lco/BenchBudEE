@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sat 22 Feb 2014 08:25:44 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 12:32:35 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -78,6 +78,20 @@ IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE52A/530AC1DA;
+Reference = C11;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE52A/530AD561;
+Reference = C12;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4BD/52F15F14;
 Reference = D1;
 ValeurCmp = LG Q71-KN-1;
@@ -101,8 +115,8 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE52A/52FBE14F;
 Reference = D4;
-ValeurCmp = DIODE;
-IdModule  = ;
+ValeurCmp = B130-13-F;
+IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
 EndCmp
 
 BeginCmp
@@ -197,66 +211,66 @@ IdModule  = Transistors_SMD:sot23;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE52A/52FBE558;
+TimeStamp = /52EAE52A/53091E18;
 Reference = Q2;
-ValeurCmp = MOSFET_N;
-IdModule  = ;
+ValeurCmp = DMN65D8L-7;
+IdModule  = Transistors_SMD:sot23;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE52A/52FBE00D;
+TimeStamp = /52EAE52A/53091DDF;
 Reference = Q3;
-ValeurCmp = MOSFET_N;
-IdModule  = ;
+ValeurCmp = AOD476;
+IdModule  = SMD_Packages:DPAK2;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE52A/52F026F4;
+TimeStamp = /52EAE52A/53091D11;
 Reference = Q4;
-ValeurCmp = MOSFET_N;
-IdModule  = ;
+ValeurCmp = AOD476;
+IdModule  = SMD_Packages:DPAK2;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4BD/52F163D6;
 Reference = R1;
 ValeurCmp = 500;
-IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4BD/52F162FC;
 Reference = R2;
 ValeurCmp = 200;
-IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4BD/52F15EEC;
 Reference = R3;
 ValeurCmp = 100;
-IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4BD/52F16354;
 Reference = R4;
 ValeurCmp = 0;
-IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4BD/53028D93;
 Reference = R5;
 ValeurCmp = 0;
-IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4BD/52F162BB;
 Reference = R6;
 ValeurCmp = 0;
-IdModule  = Resistors_SMD:Resistor_SMD0805_HandSoldering;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -347,14 +361,14 @@ BeginCmp
 TimeStamp = /52EAE52A/52F028DD;
 Reference = R19;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE52A/52F02733;
 Reference = R20;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM1206;
 EndCmp
 
 BeginCmp
@@ -554,6 +568,20 @@ IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE42B/53090D0D;
+Reference = R49;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE42B/53090D16;
+Reference = R50;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4E0/52F29CB0;
 Reference = SW1;
 ValeurCmp = SWITCH_INV;
@@ -591,8 +619,8 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE52A/52FBE056;
 Reference = TH5;
-ValeurCmp = THERMISTOR;
-IdModule  = ;
+ValeurCmp = MINISMDC050F-2;
+IdModule  = SMD_Packages:SM1812;
 EndCmp
 
 BeginCmp
@@ -645,10 +673,10 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE52A/52F0284E;
+TimeStamp = /52EAE52A/53090AC6;
 Reference = U8;
-ValeurCmp = MCP4922-E/P;
-IdModule  = ;
+ValeurCmp = MCP4801;
+IdModule  = SMD_Packages:SO8N;
 EndCmp
 
 BeginCmp
