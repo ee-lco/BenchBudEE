@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 12:32:35 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 04:50:25 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -25,14 +25,14 @@ BeginCmp
 TimeStamp = /52EAE4E0/52F29D13;
 Reference = C3;
 ValeurCmp = C;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4E0/52F29D0D;
 Reference = C4;
 ValeurCmp = C;
-IdModule  = ;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
@@ -89,6 +89,13 @@ TimeStamp = /52EAE52A/530AD561;
 Reference = C12;
 ValeurCmp = C;
 IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE4E0/530A2158;
+Reference = C13;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_1206;
 EndCmp
 
 BeginCmp
@@ -155,17 +162,24 @@ IdModule  = ;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE4E0/52F29D07;
+TimeStamp = /52EAE4E0/530A21BD;
 Reference = L2;
-ValeurCmp = INDUCTOR;
-IdModule  = ;
+ValeurCmp = CM322522-220KL;
+IdModule  = SMD_Packages:SM1210L;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4E0/52F29D01;
 Reference = L3;
-ValeurCmp = INDUCTOR;
-IdModule  = ;
+ValeurCmp = CM322522-220KL;
+IdModule  = SMD_Packages:SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE4E0/530A2152;
+Reference = L4;
+ValeurCmp = CM322522-220KL;
+IdModule  = SMD_Packages:SM1210L;
 EndCmp
 
 BeginCmp
@@ -277,14 +291,14 @@ BeginCmp
 TimeStamp = /52EAE512/52F2BF1C;
 Reference = R7;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4E0/52F29CE0;
 Reference = R8;
 ValeurCmp = R;
-IdModule  = ;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -584,36 +598,36 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE4E0/52F29CB0;
 Reference = SW1;
-ValeurCmp = SWITCH_INV;
-IdModule  = ;
+ValeurCmp = Power Switch;
+IdModule  = BenchBudEE:BB_switch;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4E0/52FBEC4C;
 Reference = TH1;
-ValeurCmp = THERMISTOR;
-IdModule  = ;
+ValeurCmp = MINISMDC050F-2;
+IdModule  = SMD_Packages:SM1812;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE4E0/52FBEC68;
+TimeStamp = /52EAE4E0/530A209B;
 Reference = TH2;
-ValeurCmp = THERMISTOR;
-IdModule  = ;
+ValeurCmp = MINISMDC050F-2;
+IdModule  = SMD_Packages:SM1812;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE4E0/52FBEC73;
+TimeStamp = /52EAE4E0/530A20B9;
 Reference = TH3;
-ValeurCmp = THERMISTOR;
-IdModule  = ;
+ValeurCmp = MINISMDC050F-2;
+IdModule  = SMD_Packages:SM1812;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE4E0/52FBEC7E;
+TimeStamp = /52EAE4E0/530A20C8;
 Reference = TH4;
-ValeurCmp = THERMISTOR;
-IdModule  = ;
+ValeurCmp = MINISMDC050F-2;
+IdModule  = SMD_Packages:SM1812;
 EndCmp
 
 BeginCmp
