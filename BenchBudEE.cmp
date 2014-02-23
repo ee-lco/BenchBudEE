@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 08:53:37 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 09:42:29 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -10,15 +10,15 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE512/52F2BE0B;
 Reference = C1;
-ValeurCmp = C;
-IdModule  = ;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE512/52F2BE43;
 Reference = C2;
-ValeurCmp = C;
-IdModule  = ;
+ValeurCmp = 1u;
+IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
@@ -193,21 +193,21 @@ BeginCmp
 TimeStamp = /52EAE4BD/52F164E1;
 Reference = D2;
 ValeurCmp = B130-13-F;
-IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+IdModule  = Diodes_SMD:Diode-SMA_Standard;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE512/52F2BE84;
 Reference = D3;
-ValeurCmp = DIODESCH;
-IdModule  = ;
+ValeurCmp = BO540WS-7;
+IdModule  = BenchBudEE:SOD-323;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE52A/52FBE14F;
 Reference = D4;
 ValeurCmp = B130-13-F;
-IdModule  = Diodes_SMD:Diode-SMA_Handsoldering;
+IdModule  = Diodes_SMD:Diode-SMA_Standard;
 EndCmp
 
 BeginCmp
@@ -283,8 +283,8 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE512/52F2BE50;
 Reference = L1;
-ValeurCmp = INDUCTOR;
-IdModule  = ;
+ValeurCmp = 22u;
+IdModule  = BenchBudEE:NR4012;
 EndCmp
 
 BeginCmp
@@ -416,7 +416,7 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE512/52F2BF1C;
 Reference = R7;
-ValeurCmp = R;
+ValeurCmp = 15;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
 
@@ -788,7 +788,7 @@ BeginCmp
 TimeStamp = /52EAE512/52F2B7AF;
 Reference = U2;
 ValeurCmp = AP5726;
-IdModule  = ;
+IdModule  = SMD_Packages:SOT23_6;
 EndCmp
 
 BeginCmp
@@ -817,13 +817,6 @@ TimeStamp = /52F17012/530A2726;
 Reference = U6;
 ValeurCmp = LM337T;
 IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2B56C;
-Reference = U7;
-ValeurCmp = LM324;
-IdModule  = ;
 EndCmp
 
 BeginCmp
