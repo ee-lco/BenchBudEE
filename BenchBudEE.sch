@@ -268,8 +268,6 @@ Wire Wire Line
 Wire Wire Line
 	10000 3300 9400 3300
 Wire Wire Line
-	9350 2700 10000 2700
-Wire Wire Line
 	10000 2100 9400 2100
 Wire Wire Line
 	10000 1900 9400 1900
@@ -289,4 +287,6 @@ Wire Wire Line
 	6600 4300 6600 2500
 Wire Wire Line
 	6600 2500 7600 2500
+Wire Wire Line
+	10000 2700 9400 2700
 $EndSCHEMATC
