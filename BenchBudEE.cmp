@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Sun 23 Feb 2014 09:42:29 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Mon 03 Mar 2014 09:43:05 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -795,28 +795,28 @@ BeginCmp
 TimeStamp = /52F17012/52F2AA95;
 Reference = U3;
 ValeurCmp = LM317T;
-IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/530A243A;
 Reference = U4;
 ValeurCmp = LM317T;
-IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/530A276D;
 Reference = U5;
 ValeurCmp = LM337T;
-IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/530A2726;
 Reference = U6;
 ValeurCmp = LM337T;
-IdModule  = Transistors_TO-220:TO-220_Neutral123_Horizontal;
+IdModule  = Transistors_TO-220:TO-220_Neutral123_Vertical;
 EndCmp
 
 BeginCmp
