@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-01-22 BZR 4631)-product date = Mon 03 Mar 2014 09:43:05 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Tue 04 Mar 2014 08:59:28 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -264,13 +264,6 @@ TimeStamp = /52F17012/530A5407;
 Reference = D12;
 ValeurCmp = MMBD914-7-F;
 IdModule  = BenchBudEE:SOT23-DIODE;
-EndCmp
-
-BeginCmp
-TimeStamp = /52F17012/52F2A734;
-Reference = JP1;
-ValeurCmp = JUMPER;
-IdModule  = ;
 EndCmp
 
 BeginCmp
@@ -775,6 +768,13 @@ TimeStamp = /52EAE52A/52FBE056;
 Reference = TH5;
 ValeurCmp = MINISMDC050F-2;
 IdModule  = SMD_Packages:SM1812;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE4E0/53163E2C;
+Reference = TP1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:1pin;
 EndCmp
 
 BeginCmp
