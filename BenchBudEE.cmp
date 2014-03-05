@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Tue 04 Mar 2014 10:11:39 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Wed 05 Mar 2014 01:25:21 AM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -270,28 +270,28 @@ BeginCmp
 TimeStamp = /52EAE4E0/531653CA;
 Reference = JP1;
 ValeurCmp = JUMPER;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+IdModule  = BenchBudEE:GND_POINT;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4E0/531653DC;
 Reference = JP2;
 ValeurCmp = JUMPER;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+IdModule  = BenchBudEE:GND_POINT;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4E0/531653E7;
 Reference = JP3;
 ValeurCmp = JUMPER;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+IdModule  = BenchBudEE:GND_POINT;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4E0/531653F2;
 Reference = JP4;
 ValeurCmp = JUMPER;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+IdModule  = BenchBudEE:GND_POINT;
 EndCmp
 
 BeginCmp
