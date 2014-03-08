@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Wed 05 Mar 2014 01:25:21 AM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Sat 08 Mar 2014 09:01:18 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -368,14 +368,14 @@ BeginCmp
 TimeStamp = /52EAE4BD/52F15F00;
 Reference = Q1;
 ValeurCmp = 2N3404;
-IdModule  = Transistors_SMD:sot23;
+IdModule  = SMD_Packages:SOT23EBC;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE52A/53091E18;
 Reference = Q2;
 ValeurCmp = DMN65D8L-7;
-IdModule  = Transistors_SMD:sot23;
+IdModule  = SMD_Packages:SOT23EBC;
 EndCmp
 
 BeginCmp
