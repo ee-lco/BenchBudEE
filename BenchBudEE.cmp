@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Tue 11 Mar 2014 01:13:30 AM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Tue 11 Mar 2014 07:48:11 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -484,6 +484,20 @@ IdModule  = BenchBudEE:EVUE3K;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE42B/531F5FF6;
+Reference = R13;
+ValeurCmp = R;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE42B/531F6023;
+Reference = R14;
+ValeurCmp = R;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
+EndCmp
+
+BeginCmp
 TimeStamp = /52F17012/52F2AC7C;
 Reference = R15;
 ValeurCmp = R;
@@ -761,6 +775,13 @@ TimeStamp = /52F17012/530A275C;
 Reference = R54;
 ValeurCmp = R;
 IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE42B/531F602A;
+Reference = R55;
+ValeurCmp = R;
+IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
 EndCmp
 
 BeginCmp
