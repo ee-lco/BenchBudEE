@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Sat 08 Mar 2014 09:01:18 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Tue 11 Mar 2014 01:13:30 AM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -327,6 +327,13 @@ TimeStamp = /52EAE4E0/530A2152;
 Reference = L4;
 ValeurCmp = CM322522-220KL;
 IdModule  = SMD_Packages:SM1210L;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/531E57F7;
+Reference = L5;
+ValeurCmp = INDUCTOR;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
