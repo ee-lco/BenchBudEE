@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Tue 11 Mar 2014 07:48:11 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Tue 11 Mar 2014 11:56:24 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -180,6 +180,34 @@ TimeStamp = /52F17012/530A50A8;
 Reference = C25;
 ValeurCmp = CP1;
 IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE551/531FA44D;
+Reference = C26;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE551/531FA49F;
+Reference = C27;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE551/531FA4DD;
+Reference = C28;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE551/531FA4E4;
+Reference = C29;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_1210;
 EndCmp
 
 BeginCmp
@@ -782,6 +810,13 @@ TimeStamp = /52EAE42B/531F602A;
 Reference = R55;
 ValeurCmp = R;
 IdModule  = BenchBudEE:Resistor_SMD0805_Blob;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE551/531F9C44;
+Reference = R56;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
