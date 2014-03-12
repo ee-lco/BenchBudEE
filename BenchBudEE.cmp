@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Wed 12 Mar 2014 09:34:56 PM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Thu 13 Mar 2014 12:16:42 AM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -389,7 +389,7 @@ BeginCmp
 TimeStamp = /52EAE493/5305902E;
 Reference = P2;
 ValeurCmp = CONN_2;
-IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
@@ -411,6 +411,20 @@ TimeStamp = /52EAE551/5308C10D;
 Reference = P5;
 ValeurCmp = 3-pin TB;
 IdModule  = BenchBudEE:3pinTB;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/5320E8B6;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:V8508H;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/5320E9EA;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:V8508H;
 EndCmp
 
 BeginCmp
@@ -829,6 +843,20 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE551/531F9C44;
 Reference = R56;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/5320E898;
+Reference = R57;
+ValeurCmp = R;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/5320E9DD;
+Reference = R58;
 ValeurCmp = R;
 IdModule  = SMD_Packages:SM0805;
 EndCmp
