@@ -60,9 +60,9 @@ LED_STRING+
 Text HLabel 2200 1400 0    60   Output ~ 0
 LED_STRING-
 Text HLabel 2200 2400 0    60   Input ~ 0
-TC_IN+
-Text HLabel 2200 2300 0    60   Input ~ 0
 TC_IN-
+Text HLabel 2200 2300 0    60   Input ~ 0
+TC_IN+
 Text HLabel 3200 3900 0    60   BiDi ~ 0
 RELAY_COM
 Text HLabel 3200 3700 0    60   BiDi ~ 0

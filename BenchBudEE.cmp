@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Fri 14 Mar 2014 12:21:28 AM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Fri 14 Mar 2014 09:18:04 PM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -225,6 +225,20 @@ IdModule  = Capacitors_SMD:c_0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE52A/5323937C;
+Reference = C32;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE52A/532394D3;
+Reference = C33;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4BD/52F15F14;
 Reference = D1;
 ValeurCmp = LG Q71-KN-1;
@@ -341,6 +355,20 @@ TimeStamp = /52EAE4BD/52F16219;
 Reference = K1;
 ValeurCmp = 1461069-5;
 IdModule  = BenchBudEE:TE-SPDT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/53238B83;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/532383FB;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
 EndCmp
 
 BeginCmp
@@ -862,6 +890,48 @@ IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE52A/53239565;
+Reference = R59;
+ValeurCmp = 0;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE52A/532392DE;
+Reference = R60;
+ValeurCmp = 0;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE52A/53239408;
+Reference = R61;
+ValeurCmp = 0;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53236ED8;
+Reference = R62;
+ValeurCmp = 1k;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53236D2C;
+Reference = R63;
+ValeurCmp = 0;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53236DD2;
+Reference = R64;
+ValeurCmp = 1k;
+IdModule  = SMD_Packages:SM0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4E0/53163E2C;
 Reference = STAR1;
 ValeurCmp = CONN_1;
@@ -913,70 +983,70 @@ EndCmp
 BeginCmp
 TimeStamp = /52EAE4BD/53224A4C;
 Reference = TP1;
-ValeurCmp = CONN_1;
+ValeurCmp = +12P;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE4BD/532249E8;
 Reference = TP2;
-ValeurCmp = CONN_1;
+ValeurCmp = RLY_LOW;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/53224E47;
 Reference = TP3;
-ValeurCmp = CONN_1;
+ValeurCmp = AGND;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/53224C20;
 Reference = TP4;
-ValeurCmp = CONN_1;
+ValeurCmp = FE_V+;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/53224D8E;
 Reference = TP5;
-ValeurCmp = CONN_1;
+ValeurCmp = FE_V-;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52F17012/53224C2B;
 Reference = TP6;
-ValeurCmp = CONN_1;
+ValeurCmp = GND_PWR;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE52A/5322467E;
 Reference = TP7;
-ValeurCmp = CONN_1;
+ValeurCmp = DAC_OUT;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/53225571;
 Reference = TP8;
-ValeurCmp = CONN_1;
+ValeurCmp = +5V;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/53224064;
 Reference = TP9;
-ValeurCmp = CONN_1;
+ValeurCmp = CH1+;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
 TimeStamp = /52EAE493/53223FBC;
 Reference = TP10;
-ValeurCmp = CONN_1;
+ValeurCmp = CH0+;
 IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
