@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Thu 13 Mar 2014 12:16:42 AM CET
+Cmp-Mod V01 Created by CvPcb (2014-03-03 BZR 4732)-product date = Fri 14 Mar 2014 12:21:28 AM CET
 
 BeginCmp
 TimeStamp = /52EAE42B/52FC2370;
@@ -862,6 +862,13 @@ IdModule  = SMD_Packages:SM0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /52EAE4E0/53163E2C;
+Reference = STAR1;
+ValeurCmp = CONN_1;
+IdModule  = Connect:1pin;
+EndCmp
+
+BeginCmp
 TimeStamp = /52EAE4E0/52F29CB0;
 Reference = SW1;
 ValeurCmp = Power Switch;
@@ -904,10 +911,73 @@ IdModule  = SMD_Packages:SM1812;
 EndCmp
 
 BeginCmp
-TimeStamp = /52EAE4E0/53163E2C;
+TimeStamp = /52EAE4BD/53224A4C;
 Reference = TP1;
 ValeurCmp = CONN_1;
-IdModule  = Connect:1pin;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE4BD/532249E8;
+Reference = TP2;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/53224E47;
+Reference = TP3;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/53224C20;
+Reference = TP4;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/53224D8E;
+Reference = TP5;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52F17012/53224C2B;
+Reference = TP6;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE52A/5322467E;
+Reference = TP7;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53225571;
+Reference = TP8;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53224064;
+Reference = TP9;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EAE493/53223FBC;
+Reference = TP10;
+ValeurCmp = CONN_1;
+IdModule  = BenchBudEE:TestPointTH;
 EndCmp
 
 BeginCmp
